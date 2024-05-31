@@ -15,9 +15,9 @@
  - deploy.sh에서 docker hub에 있던 이미지를 가져와 docker-compose.yml 파일을 실행시킵니다.
 
 블로그 포스팅
-[프로젝트에 블루그린 배포 적용하기](https://coding-review.tistory.com/411)
-[무중단 배포 방법론](https://coding-review.tistory.com/408)
-[무중단 배포 과정](https://coding-review.tistory.com/410)
+* [프로젝트에 블루그린 배포 적용하기](https://coding-review.tistory.com/411)
+* [무중단 배포 방법론](https://coding-review.tistory.com/408)
+* [무중단 배포 과정](https://coding-review.tistory.com/410)
 
 ### 블루그린 배포 선택 이유
 무중단 배포를 진행함에 있어서 고려사항이었던 롤링 배포, 블루 그린 배포, 카나리 배포 중 블루 그린 배포를 선택한 이유는 다음과 같습니다. 
