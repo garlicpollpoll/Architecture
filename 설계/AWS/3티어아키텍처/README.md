@@ -15,4 +15,4 @@
  - 폭발적인 트래픽에 ASG를 설정하여 유연성을 높였습니다.
  - EC2인스턴스에 Cloud Watch를 연결하여 알람을 받을 수 있게 하였습니다.
 
-자세한 내용은 (여기)[[https://coding-review.tistory.com/505]를 참고해주세요. 
+자세한 내용은 [여기](https://coding-review.tistory.com/505)를 참고해주세요. 
