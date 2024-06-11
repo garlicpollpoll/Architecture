@@ -21,5 +21,4 @@ CAS의 인증 정책은 체인처럼 연결되어있는데 하나의 인증이 �
 총 세개의 서비스를 하나의 로그인으로 묶어 사용자 경험을 66퍼센트 증가시켰습니다. 
 
 ## 블로그
-- (SSO구현하기)[https://coding-review.tistory.com/475]
-- 
+- [SSO 구현하기](https://coding-review.tistory.com/475) 이후 6개의 시리즈로 CAS를 완료하였습니다. 
