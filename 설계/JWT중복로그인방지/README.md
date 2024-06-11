@@ -30,5 +30,7 @@
 - JWT가 stateless라고 알고 있었는데 구현하는 과정에서 stateful하게 구현할 수 밖에 없다는 것에 대해 진지하게 고찰해보고 이에 대해 생각을 정리하는 시간을 가질 수 있었습니다.
 
 ## 블로그
-[JWT와 Spring Security 결합하기](https://coding-review.tistory.com/382)
+- [JWT와 Spring Security 결합하기](https://coding-review.tistory.com/382)
+- [JWT는 진정 stateless인가?](https://coding-review.tistory.com/511)
+- [JWT 중복로그인 방지](https://coding-review.tistory.com/512)
 
