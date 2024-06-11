@@ -1,7 +1,7 @@
 # CAS로 SSO 구현하기
 
 ## System Architecture
-<img src="https://github.com/garlicpollpoll/Architecture/assets/86602266/c046f6a5-6b8b-48bc-83e2-15cd4fde9788">
+<img src="https://github.com/garlicpollpoll/Architecture/assets/86602266/02f1ef51-dc6d-45a3-a680-cf02c5e150f2">
 
 자바진영 SSO오픈소스인 CAS를 이용해 애플리케이션을 구현하고 설계하였습니다. 
 
