@@ -8,6 +8,6 @@
 
 Client Side Caching을 적용함으로써 Latency는 평균 80% 최대 130% 개선하였고, throughput은 평균 4% 최대 250% 개선하였습니다.
 
-[Redis for Client Side Caching 이론](https://coding-review.tistory.com/524)
-[Redis for Client Side Caching 실습](https://coding-review.tistory.com/525)
-[Redis for Client Side Caching 성능테스트](https://coding-review.tistory.com/528)
+- [Redis for Client Side Caching 이론](https://coding-review.tistory.com/524)
+- [Redis for Client Side Caching 실습](https://coding-review.tistory.com/525)
+- [Redis for Client Side Caching 성능테스트](https://coding-review.tistory.com/528)
