@@ -6,5 +6,5 @@
 
 이를 해결하기위해 Redis의 분산락을 이용해 RDBMS가 Lock을 관리하기위해 오롯이 부담했어야 할 부하를 Redis와 나눠 데이터베이스 커넥션 풀의 안정성을 높이고 부하를 낮춤으로서 장애상황을 방지할 수 있었습니다. 
 
-[Pessimistic Lock -> Redis 분산락](https://coding-review.tistory.com/527)
-[Redis 분산락 부하테스트](https://coding-review.tistory.com/529)
+- [Pessimistic Lock -> Redis 분산락](https://coding-review.tistory.com/527)
+- [Redis 분산락 부하테스트](https://coding-review.tistory.com/529)
