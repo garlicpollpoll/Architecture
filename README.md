@@ -22,5 +22,7 @@
   - [SSO 구현 with CAS](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/SSO%EB%A1%9C%EA%B7%B8%EC%9D%B8)
   - [블루그린 배포](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/%EB%B8%94%EB%A3%A8%EA%B7%B8%EB%A6%B0%EB%B0%B0%ED%8F%AC)
   - [온라인 쇼핑몰](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0)
+  - [Redis 분산락](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20%EB%B6%84%EC%82%B0%EB%9D%BD)
+  - [Redis for Client Side Caching](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20for%20Client%20Side%20Caching)
 - 추상화
   - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) 
