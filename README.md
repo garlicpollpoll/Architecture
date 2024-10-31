@@ -26,4 +26,5 @@
   - [Redis for Client Side Caching](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20for%20Client%20Side%20Caching)
   - [Redis Sentinel](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20Sentinel)
 - 추상화
-  - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) 
+  - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+  - [데이터베이스에서 쿼리를 날리면 내부적으로 무슨 일이 벌어질까?](https://github.com/garlicpollpoll/Architecture/blob/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%A6%AC%EB%88%85%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%BF%BC%EB%A6%AC%20%ED%9D%90%EB%A6%84/README.md)
