@@ -1,0 +1,28 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Architecture\n\n아키텍처 프로젝트는 개인적으로 진행하는 정리형식의 프로젝트이며 코드가 들어있지 않는 프로젝트입니다. \n\n아키텍처 프로젝트는 크게 설계와 추상화로 나뉘어져 있습니다. \n\n- 설계\n  - 제가 개발하면서 직접 설계한 아키텍처들이 업로드됩니다.\n  - 모든 그림은 제가 직접 그린 그림입니다.\n  - 제가 직접 설계하지 않은 아키텍처는 업로드되지 않습니다.\n- 추상화\n  - 제가 개발 공부를 하면서 아키텍처에 대한 이해를 마친 아키텍처들만 업로드됩니다.\n  - 보통 공부를 하고 나서 아키텍처에 대해 고민해보고 이해한 내용을 그리고 업로드합니다.\n\n 주로 설계가 메인이며 추상화는 블로그에 정리한 내용을 아키텍처라는 이름만 붙여서 다시 업로드하는 느낌으로 봐주시면 좋을 것 같습니다. \n\n 지금까지 업로드한 아키텍처들의 링크를 걸어놓도록 하겠습니다. \n\n- 설계\n  - [3티어 아키텍처 AWS로 고도화하기](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/3%ED%8B%B0%EC%96%B4%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)\n  - [JWT인증 시 중복로그인 방지하기](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/JWT%EC%A4%91%EB%B3%B5%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%B0%A9%EC%A7%80)\n  - [SSO 구현 with CAS](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/SSO%EB%A1%9C%EA%B7%B8%EC%9D%B8)\n  - [블루그린 배포](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/%EB%B8%94%EB%A3%A8%EA%B7%B8%EB%A6%B0%EB%B0%B0%ED%8F%AC)\n  - [온라인 쇼핑몰](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0)\n  - [Redis 분산락](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20%EB%B6%84%EC%82%B0%EB%9D%BD)\n  - [Redis for Client Side Caching](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20for%20Client%20Side%20Caching)\n  - [Redis Sentinel](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20Sentinel)\n- 추상화\n  - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) \n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 6058af571d654940528a9ac4144079c5229c594c)
++++ b/README.md	(date 1730383948377)
+@@ -12,8 +12,6 @@
+   - 제가 개발 공부를 하면서 아키텍처에 대한 이해를 마친 아키텍처들만 업로드됩니다.
+   - 보통 공부를 하고 나서 아키텍처에 대해 고민해보고 이해한 내용을 그리고 업로드합니다.
+ 
+- 주로 설계가 메인이며 추상화는 블로그에 정리한 내용을 아키텍처라는 이름만 붙여서 다시 업로드하는 느낌으로 봐주시면 좋을 것 같습니다. 
+-
+  지금까지 업로드한 아키텍처들의 링크를 걸어놓도록 하겠습니다. 
+ 
+ - 설계
+@@ -26,4 +24,5 @@
+   - [Redis for Client Side Caching](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20for%20Client%20Side%20Caching)
+   - [Redis Sentinel](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%84%A4%EA%B3%84/Redis%20Sentinel)
+ - 추상화
+-  - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) 
++  - [도커 네트워크](https://github.com/garlicpollpoll/Architecture/tree/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%8F%84%EC%BB%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
++  - [데이터베이스에서 쿼리를 날리면 내부적으로 무슨 일이 벌어질까?](https://github.com/garlicpollpoll/Architecture/blob/main/%EC%B6%94%EC%83%81%ED%99%94/%EB%A6%AC%EB%88%85%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%BF%BC%EB%A6%AC%20%ED%9D%90%EB%A6%84/README.md)
+diff --git a/추상화/리눅스/README.md b/추상화/리눅스/README.md
+deleted file mode 100644
