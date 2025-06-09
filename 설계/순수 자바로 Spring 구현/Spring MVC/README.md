@@ -11,3 +11,6 @@
 <p>강의로, 책으로만 알고 있었던 Spring MVC의 구현체들을 직접 손으로 구현해보면서 더 가슴에 와닿았던 점이 너무 마음에 들고 만족스러웠습니다. 특히 제가 만든 스프링 프레임워크가 JSP 페이지를 렌더링할 때의 쾌감은 정말 잊지 못할 경험이었습니다.</p>
 
 <p>IoC 컨테이너의 개발 이후에 Spring MVC를 구현하게 되었는데 앞으로 AOP와 JDBCTemplate, Validation, ExceptionHandler 등 다양한 기능을 구현할 때를 위해 초석을 다진 것 같아 매우 뿌듯하고 만족스러운 공부였습니다.</p>
+
+## 블로그 포스팅
+[순수 자바로 Spring MVC구현하기](https://coding-review.tistory.com/596)
